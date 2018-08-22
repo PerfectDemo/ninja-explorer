@@ -1,0 +1,10 @@
+{
+    "DEV": {
+        "provider": "https://rinkeby.infura.io/metamask",
+        "etherscan": "https://rinkeby.etherscan.io/"
+    },
+    "PROD": {
+        "provider": "https://mainnet.infura.io/metamask",
+        "etherscan": "https://etherscan.io/"
+    }
+}
